@@ -56,7 +56,7 @@ class _LoginScreenState extends State<LoginScreen> {
         MyCustomButton(
           text: AppText.signIn,
           onPressed: () {},
-        )
+        ),
       ],
     );
   }
