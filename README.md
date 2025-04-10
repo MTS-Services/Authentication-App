@@ -5,7 +5,7 @@
 ```
 📂lib
  │───main.dart  
- │───📂utils  
+ │───📂core  
  |   │── app_colors.dart
  |   │── app_image_path.dart
  |   │── app_text.dart
